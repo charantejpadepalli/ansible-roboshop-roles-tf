@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.devopspractice.shop
+CATALOGUE_HOST: catalogue.devopspractice.shop
+USER_HOST: user.devopspractice.shop
+CART_HOST: cart.devopspractice.shop 
+PAYMENT_HOST: payment.devopspractice.shop
+SHIPPING_HOST: shipping.devopspractice.shop
+MYSQL_HOST: mysql.devopspractice.shop
+REDIS_HOST: redis.devopspractice.shop
+RABBITMQ_HOST: rabbitmq.devopspractice.shop 
